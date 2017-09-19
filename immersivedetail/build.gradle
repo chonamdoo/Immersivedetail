@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 apply plugin: 'com.github.dcendents.android-maven'
-
+group='com.github.chonamdoo'
 android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
